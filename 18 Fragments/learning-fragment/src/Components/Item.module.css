@@ -1,0 +1,17 @@
+.kg-item {
+    background-color: antiquewhite;
+}
+
+.kg-span{
+    font-weight: bold;
+    color: red;
+}
+
+.button{
+    float: right;
+
+}
+
+.buttonClick {
+    background-color: green;
+}
